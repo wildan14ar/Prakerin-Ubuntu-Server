@@ -17,3 +17,5 @@ Grafis.
 
 Tentang Ubuntu Linux :
 Ubuntu adalah sistem operasi desktop yang pertama kali dirilis pada 20 Oktober 2004 dan dikembangkan oleh Cannonical Ltd. Sementara itu, Ubuntu Server adalah Ubuntu yang dikembangkan khusus untuk sistem operasi server. Pastinya ada perbedaan antara Ubuntu dan Ubuntu Server. Pada Ubuntu Server tidak disediakan Graphical User Interface (GUI). Hal itu berarti semua bentuk eksekusi program dijalankan melalui baris perintah yang disebut dengan Command Line Interface (CLI). Saat ini Ubuntu sudah banyak digunakan di berbagai perusahaan besar di seluruh dunia, baik yang versi desktop maupun yang server.
+
+langkah instalasi bisa dilihat di link ini : https://youtu.be/koJMjuL9MZA
