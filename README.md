@@ -47,3 +47,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_qj2Egzc2Sk
 " target="_blank"><img src="http://img.youtube.com/vi/_qj2Egzc2Sk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+#### langkah konfigurasi Proxy Server bisa dilihat di link ini : <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UMeschC-2sc
+" target="_blank"><img src="http://img.youtube.com/vi/UMeschC-2sc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
